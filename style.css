@@ -36,7 +36,7 @@ p {
 
   button {
     background-color: var(--secondary-color);
-    color: --primary-color;
+    color: var(--primary-color);
     padding: 0.6rem 1.8rem;
     border-radius: 5px;
     cursor: pointer;
