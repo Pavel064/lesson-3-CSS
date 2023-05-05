@@ -4,7 +4,7 @@
   --secondary-color-hover: #F2C043;
   --secondary-color-active: #F8CD61;
   --secondary-color-text: #FFF3A8;
-  --font-size: 1em;
+  --font-size: 1rem;
  }
 
 body {
@@ -15,7 +15,7 @@ body {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 2rem;
   color: var(--primary-color);
   margin: 2.5rem; /* 40px / 16px = 2.5rem */
   font-weight: 700;
@@ -29,7 +29,7 @@ h4 {
 }
 
 p {
-  font-size: 0.8em;
+  font-size: 0.8rem;
 }
 
 /* Button */
