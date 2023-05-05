@@ -8,9 +8,9 @@
  }
 
 body {
-  font-family: 'apple-system', 'Segoe UI', 'system-ui', 'Roboto', 'Helvetica Neue', Arial;  
-  margin: 0 auto; 
-  max-width: 65rem; 
+  font-family: 'apple-system', 'Segoe UI', 'system-ui', 'Roboto', 'Helvetica Neue', Arial;
+  margin: 0 auto;
+  max-width: 65rem;
   text-align: center;
 }
 
@@ -56,16 +56,16 @@ p {
 
 
 .main-baner {
-  width: 31rem; 
+  width: 31rem;
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
   gap: 0;
   margin-bottom: 0.6rem;
   margin-left: 0.6rem;
 }
 
 .main-baner-text {
-  height: 5rem; 
+  height: 5rem;
   background-color: #F1F1F1;
   border-radius: 0 0 1rem 1rem;
   display: flex;
